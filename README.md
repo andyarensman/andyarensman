@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Andy Arensman
+
+I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I am contributing to Hack for LA's Food Oasis project, working on freelance projects, and actively seeking a position in frontend or fullstack web development. Feel free to reach out!
+
+* Frontend: React, Next, TypeScript, Tailwind, Material UI
+* Backend: Node, Express, MongoDB
+* Tools: Figma, Git, Vercel
 
 <!--
 **andyarensman/andyarensman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

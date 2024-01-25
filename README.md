@@ -51,3 +51,34 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
     <img src="https://api.iconify.design/logos:vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </picture>
 </p>
+
+### Portfolio
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.sicnarfband.com/" target="_blank">
+        <img src="https://github.com/andyarensman/andyarensman/assets/86622025/73ade722-eec2-42c7-bd78-4a322a6f29a3" alt="SicNarf Website" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://prepacker.netlify.app/" target="_blank">
+        <img src="https://github.com/andyarensman/andyarensman/assets/86622025/e2a6b171-ff63-4c79-a6d7-db4fa848f8d1" alt="PrePacker Logo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://www.sicnarfband.com/" target="_blank"><strong>SicNarf Band Website</strong></a></h3>
+      <p align="center">Next | TypeScript | Tailwind</p>
+      <p>This band website, created for a client, was designed with a mobile-first approach using Figma. The associated GitHub repository is kept private to ensure the privacy and security of the project.</p>
+      <br/>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://prepacker.netlify.app/" target="_blank"><strong>PrePacker Web App</strong></a></h3>
+      <p align="center">MongoDB | Express | React | Node</p>
+      <p>PrePacker is a digital checklist and storage solution aimed at backpackers looking to plan what they want to bring on their next trip. Users are able to login (with JWT authentication), upload gear data (manually or with a web scraper), create PrePacker checklists, and use their lists to help them plan their next trip.</p>
+      <p align="center"><a href="https://github.com/andyarensman/prepacker-app" target="_blank"><i>GitHub Repository</i></a></p>
+    </td>
+  </tr>
+</table>

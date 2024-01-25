@@ -1,4 +1,4 @@
-### Hi, I'm Andy Arensman
+## Hi, I'm Andy Arensman
 
 I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I am contributing to Hack for LA's Food Oasis project, working on freelance projects, and actively seeking a position in frontend or fullstack web development. Feel free to reach out!
 
@@ -6,7 +6,7 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
 * Backend: Node, Express, MongoDB
 * Tools: Figma, Git, Vercel
 
-### Languages and Tools
+## Languages and Tools
 <p align="left">
   <picture title="JavaScript">
     <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="40" height="40"/>
@@ -52,7 +52,7 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
   </picture>
 </p>
 
-### Portfolio
+## Portfolio
 
 <table>
   <tr>

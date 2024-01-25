@@ -68,13 +68,13 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center"><a href="https://www.sicnarfband.com/" target="_blank"><strong>SicNarf Band Website</strong></a></h3>
       <p align="center">Next | TypeScript | Tailwind</p>
       <p>This band website, created for a client, was designed with a mobile-first approach using Figma. The associated GitHub repository is kept private to ensure the privacy and security of the project.</p>
       <br/>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3 align="center"><a href="https://prepacker.netlify.app/" target="_blank"><strong>PrePacker Web App</strong></a></h3>
       <p align="center">MongoDB | Express | React | Node</p>
       <p>PrePacker is a digital checklist and storage solution aimed at backpackers looking to plan what they want to bring on their next trip. Users are able to login (with JWT authentication), upload gear data (manually or with a web scraper), create PrePacker checklists, and use their lists to help them plan their next trip.</p>

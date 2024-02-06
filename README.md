@@ -70,7 +70,7 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
   <tr>
     <td valign="top">
       <h3 align="center"><a href="https://www.sicnarfband.com/" target="_blank"><strong>SicNarf Band Website</strong></a></h3>
-      <p align="center">Next | TypeScript | Tailwind</p>
+      <p align="center">Next | TypeScript | Tailwind | Figma</p>
       <p>This band website, created for a client, was designed with a mobile-first approach using Figma. The associated GitHub repository is kept private to ensure the privacy and security of the project.</p>
       <br/>
     </td>

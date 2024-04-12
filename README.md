@@ -62,7 +62,7 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
       </a>
     </td>
     <td valign="top">
-      <h3 align="center"><a href="https://prepacker.netlify.app/" target="_blank"><strong>Food Oasis</strong></a></h3>
+      <h3 align="center"><a href="https://www.foodoasis.net/" target="_blank"><strong>Food Oasis</strong></a></h3>
       <p align="center">React | Material-UI | Node</p>
       <p>"Food Oasis is a community-driven platform dedicated to ensuring everyone has access to food pantries and meal programs when they need them most. Operating across several regions, including Los Angeles County, The Hawaiian Islands, Santa Barbara County, and McKinney, TX. The web application bridges the gap between individuals and essential food assistance services, creating a supportive network within various communities."</p>
       <p align="center"><a href="https://github.com/hackforla/food-oasis" target="_blank"><i>GitHub Repository</i></a></p>

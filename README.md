@@ -2,7 +2,7 @@
 
 I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I am contributing to Hack for LA's Food Oasis project, working on freelance projects, and actively seeking a position in frontend or fullstack web development. Feel free to reach out!
 
-* Frontend: React, Next, TypeScript, Tailwind, Material UI
+* Frontend: React, Next, TypeScript, Tailwind, Material UI, Storybook
 * Backend: Node, Express, MongoDB
 * Tools: Figma, Git, Vercel
 
@@ -47,7 +47,10 @@ I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I
   <picture title="Material-UI">
     <img src="https://api.iconify.design/logos:material-ui.svg" alt="material-ui" width="40" height="40"/>
   </picture>
-  <picture title="Vercel">
+  <picture title="Storybook">
+    <img src="https://api.iconify.design/logos:storybook-icon.svg" alt="vercel" width="40" height="40"/>
+  </picture>
+   <picture title="Vercel">
     <img src="https://api.iconify.design/logos:vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </picture>
 </p>

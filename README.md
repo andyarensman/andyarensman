@@ -3,7 +3,7 @@
 I am a web developer, musician, and hiker based in Los Angeles, CA. Currently, I am contributing to Hack for LA's Food Oasis project, working on freelance projects, and actively seeking a position in frontend or fullstack web development. Feel free to reach out!
 
 * Frontend: React, Next, TypeScript, Tailwind, Material UI, Storybook
-* Backend: Node, Express, MongoDB
+* Backend: Nest, Node, Express, MongoDB, Postgres, TypeORM
 * Tools: Figma, Git, Vercel
 
 ## Languages and Tools
